@@ -5,9 +5,8 @@ website:
   title: "AI for Life"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about/
+        text: About
 
 format:
   html:
