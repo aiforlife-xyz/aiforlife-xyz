@@ -1,0 +1,11 @@
+---
+title: "AI for Life"
+subtitle: "Unlock AI's Potential To Transform Lives"
+format:
+  revealjs:
+    scroll-view:
+      layout: compact
+      snap: proximity
+      progress: true
+      activation-width: 0
+---
